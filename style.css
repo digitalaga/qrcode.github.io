@@ -12,7 +12,9 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(#4671ea, #ac34e7);
+  background: linear-gradient(-45deg, #fd1da7, #000000, #5510f5, #ff0000);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
 }
 ::selection {
   color: #fff;
