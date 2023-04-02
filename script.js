@@ -2096,7 +2096,7 @@ let qr;
   qr = new QRious({
     element: document.querySelector("#qrCode"),
     size: 200,
-    value: "Code Grind"
+    value: "Never Gonna Give You Up - You are RickRolled!"
   });
 })();
 
